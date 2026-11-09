@@ -2,9 +2,9 @@
 
 Updates to Easy Isometric for iPad and iPhone, plus changes to the website. App Store releases, internal previews, and work in development have separate availability labels.
 
-## 0.26 preview
+## 0.26
 
-> **Internal TestFlight.** Updated October 31, 2026. This version is not released on the App Store.
+> **Released on the App Store.** November 8, 2026. Requires iOS 15 or later.
 
 ### Improvements
 
@@ -15,6 +15,7 @@ Updates to Easy Isometric for iPad and iPhone, plus changes to the website. App 
 
 ### Fixes
 
+- Compact PDF exports retain arrowheads on branch attachment dimensions. Very short dimensions keep their existing hidden-arrow behavior.
 - Sync & Log Out keeps you signed in and retains local drawings when sync fails. You can retry after the connection recovers.
 
 ## Website refresh
