@@ -2,6 +2,15 @@
 
 Updates to Easy Isometric for iPad and iPhone, plus changes to the website. App Store releases, internal previews, and work in development have separate availability labels.
 
+## 0.26.2
+
+> **Released on the App Store.** November 19, 2026. Requires iOS 15 or later.
+
+### Fixes
+
+- Fixed additional crashes that could occur when switching drawings during PDF export or when the app encountered invalid drawing data.
+- If the app cannot prepare a PDF, it shows an error and lets you try again.
+
 ## 0.26.1
 
 > **Released on the App Store.** November 18, 2026. Requires iOS 15 or later.
