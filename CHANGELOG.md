@@ -2,6 +2,14 @@
 
 Updates to Easy Isometric for iPad and iPhone, plus changes to the website. App Store releases, internal previews, and work in development have separate availability labels.
 
+## 0.26.1
+
+> **Released on the App Store.** November 18, 2026. Requires iOS 15 or later.
+
+### Fixes
+
+- Fixed a crash when sharing drawings as PDFs if a pipe is connected to a flange. The fix also covers drawings with a blind flange attached.
+
 ## 0.26
 
 > **Released on the App Store.** November 8, 2026. Requires iOS 15 or later.
