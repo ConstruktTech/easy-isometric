@@ -2,6 +2,18 @@
 
 Updates to Easy Isometric for iPad and iPhone, plus changes to the website. App Store releases, internal previews, and work in development have separate availability labels.
 
+## 0.27
+
+> **Released on the App Store.** November 23, 2026. Requires iOS or iPadOS 15 or later.
+
+### Improvements
+
+- Preview and rotate the branch of a standard or reducing tee before placing it. Cancel leaves the drawing unchanged.
+
+### Fixes
+
+- If you tap Sync while offline, the app asks you to reconnect so you can sync your drawings.
+
 ## 0.26.2
 
 > **Released on the App Store.** November 19, 2026. Requires iOS 15 or later.
